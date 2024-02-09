@@ -16,9 +16,9 @@ Loat Test Summary Report
 
 Conclusion of Thread
 
-• The average execution time required is 1031 milliseconds.
-• The minimum execution time required for a thread is 0 milliseconds.
-• The maximum execution time is 24226 milliseconds.
+- The average execution time required is 1031 milliseconds.
+- The minimum execution time required for a thread is 0 milliseconds.
+- The maximum execution time is 24226 milliseconds.
 
 Conclusion of Throughput
 
